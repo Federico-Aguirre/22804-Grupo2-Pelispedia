@@ -1,12 +1,12 @@
 export const aboutInfo = [
   {
     name: 'Aguirre Federico',
-    profesion: '--',
+    profesion: 'Desarrollador web FullStack',
     imagen: './Aguirre.png',
-    descripcion: '--',
+    descripcion: 'Estoy finalizando el ultimo año de la carrera Analisis de Sistemas, mis actividades son practicar ajedrez y futbol.',
     social: {
       linkedin: 'https://www.linkedin.com/in/federico-nicolas-aguirre',
-      github: '',
+      github: 'https://github.com/Federico-Aguirre',
     },
   },
   {
